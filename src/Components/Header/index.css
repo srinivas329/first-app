@@ -1,0 +1,16 @@
+.header-bg{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px;
+}
+.names{
+    color: white;
+    margin: 0px;
+}
+.nav-item{
+    display: flex;
+    width: 30%;
+    justify-content: space-between;
+}
